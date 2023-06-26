@@ -10,4 +10,6 @@ I have also implemented the following augmentations from scratch-
 2. Standard Augmentation
 3. Mixup Augmentation
 
+A detailed report of all my findings can be found as well.
+
 This was implemented as part of my course work under Professor Samet Oymak as part of a course I completed on Deep Learning.
